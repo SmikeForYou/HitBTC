@@ -23,7 +23,7 @@ source venv/bin/activate
 ```
 4.Run app with
 ```bash
-FLASK_APP=server.py flask run
+(venv) FLASK_APP=server.py flask run
 ```
 
 ## Features
