@@ -12,9 +12,9 @@ python3 --version
 ### Local development
 1.Clone repo and get into it:
 ```bash
-git clone your_user@your_repo && cd your_project_dir
+git clone https://github.com/SmikeForYou/HitBTC.git && cd HitBTC
 ```
-2.Update .env with API_KEY and API Secret
+2.Update .env with API_KEY and API Secret <br />
 3.Create local virtual environment and install dependencies
 ```bash
 python3 -m venv venv
