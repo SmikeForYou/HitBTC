@@ -1,9 +1,3 @@
-# Personal Finance
-
-Project Description
-
-## Installation
-
 ### Requirements
 ```bash
 python3 --version
